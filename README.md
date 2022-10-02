@@ -1,4 +1,4 @@
-# GraphCAD: Graph Contrastive Learning for Anomaly Detection 
+# Graph Contrastive Learning for Anomaly Detection 
 
 GraphCAD has been Accepted as the regular paper by IEEE Transactions on Knowledge and Data Engineering (**TKDE 2022**).
 
